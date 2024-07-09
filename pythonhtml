@@ -20,7 +20,7 @@
 					<a href="about.html">About</a>
 				</li>
 				<li>
-					<a href="python_basic.html">Python Basic</a>
+					<a href="python_basic.html">Python</a>
 				</li>
 				<li>
 					<a href="machine_learning.html">Machine Learning</a>
@@ -38,7 +38,7 @@
 	<div class="body">
 		<div>
 			<h2>This page is in building......</h2>
-			<a href="python_basic/python_basic_01.html">Python basic 01: Set up a Python programming environment</a>
+			<a href="python/python_basic_01.html">Python basics 01: Set up a Python programming environment</a>
 
 		</div>
 	</div>
