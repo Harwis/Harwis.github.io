@@ -13,8 +13,12 @@ for y in range(height):
             image_1[y, x] = [0, 1, 0]  # Green
 
 # Create another image which looks has the similar colour as the first image
+red = 184
+green = 174
+blue = 40
+
 image_2 = np.zeros((height, width, 3))
-image_2[:, :] = [184/255, 174/255, 40/255]
+image_2[:, :] = [red/255, green/255, blue/255]
 
 
 # Show the images
